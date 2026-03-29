@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.log
+*.pid
+*.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+ios/Flutter/.last_build_id
+android/local.properties
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# macOS
+.DS_Store
