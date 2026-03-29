@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAJp_cscPz0W6a4hp5G57ssT1_ZFAzxntI',
+    apiKey: 'your api key',
     appId: '1:984707605184:web:a8d48837cda404cac6c325',
     messagingSenderId: '984707605184',
     projectId: 'hostellog-c5df0',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBPr3Z_7WKHqbhbf9y8XJLiEvwSKPn3Pzg',
+    apiKey: 'your api key',
     appId: '1:984707605184:android:12be6ed310339458c6c325',
     messagingSenderId: '984707605184',
     projectId: 'hostellog-c5df0',
@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD-56W96RFdnN05oSKRZL0W3VkXN__hSlo',
+    apiKey: 'your api key',
     appId: '1:984707605184:ios:3d0d799e9b1270aec6c325',
     messagingSenderId: '984707605184',
     projectId: 'hostellog-c5df0',
